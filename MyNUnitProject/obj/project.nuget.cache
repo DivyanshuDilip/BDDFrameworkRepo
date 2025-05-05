@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Vaob5BWi/RI=",
+  "dgSpecHash": "tDRV6O/eGVc=",
   "success": true,
-  "projectFilePath": "/home/knoldus/Desktop/DirectNETFramework/MyNUnitProject/MyNUnitProject.csproj",
+  "projectFilePath": "/home/knoldus/Desktop/DirectNETFramework/BDDFrameworkRepo/MyNUnitProject/MyNUnitProject.csproj",
   "expectedPackageFiles": [
     "/home/knoldus/.nuget/packages/bodi/1.5.0/bodi.1.5.0.nupkg.sha512",
     "/home/knoldus/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
@@ -90,9 +90,7 @@
     "/home/knoldus/.nuget/packages/system.security.principal.windows/4.5.0/system.security.principal.windows.4.5.0.nupkg.sha512",
     "/home/knoldus/.nuget/packages/system.text.encoding/4.3.0/system.text.encoding.4.3.0.nupkg.sha512",
     "/home/knoldus/.nuget/packages/system.threading/4.3.0/system.threading.4.3.0.nupkg.sha512",
-    "/home/knoldus/.nuget/packages/system.threading.tasks/4.3.0/system.threading.tasks.4.3.0.nupkg.sha512",
-    "/home/knoldus/.nuget/packages/microsoft.netcore.app.ref/8.0.14/microsoft.netcore.app.ref.8.0.14.nupkg.sha512",
-    "/home/knoldus/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.14/microsoft.aspnetcore.app.ref.8.0.14.nupkg.sha512"
+    "/home/knoldus/.nuget/packages/system.threading.tasks/4.3.0/system.threading.tasks.4.3.0.nupkg.sha512"
   ],
   "logs": [
     {
