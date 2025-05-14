@@ -27,6 +27,8 @@ namespace MyNUnitProject.StepDefinitions
         public void TearDown()
         {
             driver.Quit();
+            driver.Dispose();
+            driver = null;
         }
 
         [Given(@"the user is on login page")]
