@@ -72,7 +72,7 @@ namespace MyNUnitProject.StepDefinitions
             driver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(2);
             driver.FindElement(product.AddToCartButton).Click();
             driver.FindElement(product.ShoppingCartLink).Click();
-            driver.FindElement(product.CheckoutButton).Click();
+            driver.FindElement(product.RemoveButton).Click();
         }
     }
 }

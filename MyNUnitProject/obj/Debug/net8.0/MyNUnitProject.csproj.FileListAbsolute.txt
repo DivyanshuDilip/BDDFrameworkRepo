@@ -111,10 +111,10 @@
 /home/knoldus/Desktop/DirectNETFramework/MyNUnitProject/obj/Debug/net8.0/MyNUnitProject.pdb
 /home/knoldus/Desktop/DirectNETFramework/MyNUnitProject/obj/Debug/net8.0/MyNUnitProject.genruntimeconfig.cache
 /home/knoldus/Desktop/DirectNETFramework/MyNUnitProject/obj/Debug/net8.0/ref/MyNUnitProject.dll
+/home/knoldus/Desktop/DirectNETFramework/BDDFrameworkRepo/MyNUnitProject/bin/Debug/net8.0/TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
 /home/knoldus/Desktop/DirectNETFramework/BDDFrameworkRepo/MyNUnitProject/bin/Debug/net8.0/selenium-manager/linux/selenium-manager
 /home/knoldus/Desktop/DirectNETFramework/BDDFrameworkRepo/MyNUnitProject/bin/Debug/net8.0/selenium-manager/macos/selenium-manager
 /home/knoldus/Desktop/DirectNETFramework/BDDFrameworkRepo/MyNUnitProject/bin/Debug/net8.0/selenium-manager/windows/selenium-manager.exe
-/home/knoldus/Desktop/DirectNETFramework/BDDFrameworkRepo/MyNUnitProject/bin/Debug/net8.0/TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
 /home/knoldus/Desktop/DirectNETFramework/BDDFrameworkRepo/MyNUnitProject/bin/Debug/net8.0/NUnit3.TestAdapter.dll
 /home/knoldus/Desktop/DirectNETFramework/BDDFrameworkRepo/MyNUnitProject/bin/Debug/net8.0/NUnit3.TestAdapter.pdb
 /home/knoldus/Desktop/DirectNETFramework/BDDFrameworkRepo/MyNUnitProject/bin/Debug/net8.0/nunit.engine.dll

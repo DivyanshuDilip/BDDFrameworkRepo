@@ -19,7 +19,7 @@ namespace MyNUnitProject.Pages
 
         public By ShoppingCartLink = By.XPath("//div[@id='shopping_cart_container']/a");
 
-        public By CheckoutButton = By.Id("checkout");
+        public By RemoveButton = By.Id("remove-sauce-labs-bolt-t-shirt");
 
         public By TitleName= By.XPath("//span[@class='title']");
     }
