@@ -9,9 +9,10 @@ namespace MyNUnitProject.StepDefinitions
     [Binding]
     class SauceDemoPage
     {
-        private IWebDriver driver;
-        private SauceDemoLoginPage login;
-        private SauceDemoProductPage product;
+        private IWebDriver? driver;
+
+        private SauceDemoLoginPage? login;
+        private SauceDemoProductPage? product;
 
         // Hook for driver setup before each scenario
         [BeforeScenario]
