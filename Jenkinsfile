@@ -87,5 +87,12 @@ pipeline {
                 echo 'Note: TRX format is not directly supported by the junit plugin. You may need to convert to JUnit XML if publishing results to Jenkins.'
             }
         }
+
+        stage('Clean Workspace') {
+    steps {
+        cleanWs()
+    }
+}
+
     }
 }
